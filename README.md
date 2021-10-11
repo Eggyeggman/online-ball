@@ -1,2 +1,2 @@
-# online-ball
-ball that's online
+# synchronousBallMovement
+Ball moving synchronously
